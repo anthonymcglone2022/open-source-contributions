@@ -1,12 +1,12 @@
 # open-source-contributions
 
-Total contributions: 1
-
 Elasticsearch:
 
-[Contribution 1](https://github.com/elastic/elasticsearch/issues/88624)
-[Pull Request](https://github.com/elastic/elasticsearch/pull/89631)
-[Docs Link](https://www.elastic.co/guide/en/elasticsearch/reference/current/paginate-search-results.html)
+| Issue | Pull Request | Documentation |
+| --- | --- | --- |
+| [88624](https://github.com/elastic/elasticsearch/issues/88624) | [89631](https://github.com/elastic/elasticsearch/pull/89631) | [Docs](https://www.elastic.co/guide/en/elasticsearch/reference/current/paginate-search-results.html) |
+| [88232](hhttps://github.com/elastic/elasticsearch/issues/88232) | [90328](https://github.com/elastic/elasticsearch/pull/90328) | pending |
+
 
 
 
