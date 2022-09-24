@@ -1,6 +1,6 @@
 # open-source-contributions
 
-Elasticsearch:
+**Elasticsearch:**
 
 | Issue: | Pull Request | Documentation |
 | --- | --- | --- |
