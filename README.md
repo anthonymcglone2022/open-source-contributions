@@ -9,6 +9,13 @@
 | [87339](https://github.com/elastic/elasticsearch/issues/87339) | [91541](https://github.com/elastic/elasticsearch/pull/91541)  | Pending |
 
 
+**Fedora**
+
+| Issue | Pull Request | Documentation |
+| --- | --- | --- |
+| [6](https://gitlab.com/fedora/docs/templates/fedora-docs-template/-/issues/6) | [8](https://gitlab.com/fedora/docs/templates/fedora-docs-template/-/merge_requests/8) | Pending |
+
+
 
 
 
