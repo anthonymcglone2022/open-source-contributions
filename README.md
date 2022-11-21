@@ -13,7 +13,7 @@
 
 | Issue | Pull Request | Documentation |
 | --- | --- | --- |
-| [6](https://gitlab.com/fedora/docs/templates/fedora-docs-template/-/issues/6) | [8](https://gitlab.com/fedora/docs/templates/fedora-docs-template/-/merge_requests/8) | Pending |
+| [6](https://gitlab.com/fedora/docs/templates/fedora-docs-template/-/issues/6) | [8](https://gitlab.com/fedora/docs/templates/fedora-docs-template/-/merge_requests/8) | [link](https://gitlab.com/fedora/docs/templates/fedora-docs-template/-/blob/main/README.md) |
 
 
 
