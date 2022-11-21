@@ -16,6 +16,13 @@
 | [6](https://gitlab.com/fedora/docs/templates/fedora-docs-template/-/issues/6) | [8](https://gitlab.com/fedora/docs/templates/fedora-docs-template/-/merge_requests/8) | [link](https://gitlab.com/fedora/docs/templates/fedora-docs-template/-/blob/main/README.md) |
 
 
+**Gnome**
+
+| Issue | Pull Request | Documentation |
+| --- | --- | --- |
+| [109](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/issues/109) | Pending | Pending |
+
+
 
 
 
