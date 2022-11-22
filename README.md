@@ -21,7 +21,7 @@
 
 | Issue | Pull Request | Documentation |
 | --- | --- | --- |
-| [109](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/issues/109) | Pending | Pending |
+| [109](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/issues/109) | [150](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/merge_requests/150) | Pending |
 
 
 
