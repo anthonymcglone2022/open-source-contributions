@@ -14,6 +14,7 @@
 | Issue | Pull Request | Documentation |
 | --- | --- | --- |
 | [6](https://gitlab.com/fedora/docs/templates/fedora-docs-template/-/issues/6) | [8](https://gitlab.com/fedora/docs/templates/fedora-docs-template/-/merge_requests/8) | [link](https://gitlab.com/fedora/docs/templates/fedora-docs-template/-/blob/main/README.md) |
+|[8](https://gitlab.com/fedora/docs/community-tools/fedora-accounts-docs/-/issues/8)|[8](https://gitlab.com/fedora/docs/community-tools/fedora-accounts-docs/-/merge_requests/8)|Pending|
 
 
 **Gnome**
