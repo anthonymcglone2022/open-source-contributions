@@ -13,8 +13,8 @@
 
 | Issue | Pull Request | Documentation | Comments |
 | --- | --- | --- | --- |
-|[8](https://gitlab.com/fedora/docs/community-tools/fedora-accounts-docs/-/issues/8)|[8](https://gitlab.com/fedora/docs/community-tools/fedora-accounts-docs/-/merge_requests/8)|Pending| |
 |[477](https://pagure.io/fedora-docs/quick-docs/issue/477)|[507](https://pagure.io/fedora-docs/quick-docs/pull-request/507)|Pending| |
+|[8](https://gitlab.com/fedora/docs/community-tools/fedora-accounts-docs/-/issues/8)|[8](https://gitlab.com/fedora/docs/community-tools/fedora-accounts-docs/-/merge_requests/8)|[link](https://docs.fedoraproject.org/en-US/fedora-accounts/user/#resetpassword)| |
 | [6](https://gitlab.com/fedora/docs/templates/fedora-docs-template/-/issues/6) | [8](https://gitlab.com/fedora/docs/templates/fedora-docs-template/-/merge_requests/8) | [link](https://gitlab.com/fedora/docs/templates/fedora-docs-template/-/blob/main/README.md) | |
 
 
