@@ -26,6 +26,7 @@
 
 | Issue | Pull Request | Documentation | Comments |
 | --- | --- | --- | --- |
+|[151](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/issues/151)|Pending|Pending|||
 | [109](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/issues/109) | [150](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/merge_requests/150) | n/a (Desktop help) | Download the next Gnome release |
 
 
