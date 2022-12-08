@@ -20,6 +20,7 @@
 |[503](https://pagure.io/fedora-docs/quick-docs/issue/503)|[509](https://pagure.io/fedora-docs/quick-docs/pull-request/509)|[link](https://docs.fedoraproject.org/en-US/quick-docs/dnf-system-upgrade/#sect-clean-up-retired-packages)| |
 |[8](https://gitlab.com/fedora/docs/community-tools/fedora-accounts-docs/-/issues/8)|[8](https://gitlab.com/fedora/docs/community-tools/fedora-accounts-docs/-/merge_requests/8)|[link](https://docs.fedoraproject.org/en-US/fedora-accounts/user/#resetpassword)| |
 | [6](https://gitlab.com/fedora/docs/templates/fedora-docs-template/-/issues/6) | [8](https://gitlab.com/fedora/docs/templates/fedora-docs-template/-/merge_requests/8) | [link](https://gitlab.com/fedora/docs/templates/fedora-docs-template/-/blob/main/README.md) | |
+|[312](https://pagure.io/fedora-docs/quick-docs/issue/312)|[520](https://pagure.io/fedora-docs/quick-docs/pull-request/520)|[link](https://docs.fedoraproject.org/en-US/quick-docs/kernel/build-custom-kernel/#_building_a_kernel_from_the_fedora_dist_git)||
 
 
 **Gnome**
