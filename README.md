@@ -14,8 +14,8 @@
 
 | Issue | Pull Request | Documentation | Comments |
 | --- | --- | --- | --- |
-|[404](https://pagure.io/fedora-docs/quick-docs/issue/404)|[514](https://pagure.io/fedora-docs/quick-docs/pull-request/514)|Pending||
 |[477](https://pagure.io/fedora-docs/quick-docs/issue/477)|[507](https://pagure.io/fedora-docs/quick-docs/pull-request/507)|Pending| |
+|[404](https://pagure.io/fedora-docs/quick-docs/issue/404)|[514](https://pagure.io/fedora-docs/quick-docs/pull-request/514)|[link](https://docs.fedoraproject.org/en-US/quick-docs/dnf-system-upgrade/#sect-update-grub-bootloader-on-bios)||
 |[503](https://pagure.io/fedora-docs/quick-docs/issue/503)|[509](https://pagure.io/fedora-docs/quick-docs/pull-request/509)|[link](https://docs.fedoraproject.org/en-US/quick-docs/dnf-system-upgrade/#sect-clean-up-retired-packages)| |
 |[8](https://gitlab.com/fedora/docs/community-tools/fedora-accounts-docs/-/issues/8)|[8](https://gitlab.com/fedora/docs/community-tools/fedora-accounts-docs/-/merge_requests/8)|[link](https://docs.fedoraproject.org/en-US/fedora-accounts/user/#resetpassword)| |
 | [6](https://gitlab.com/fedora/docs/templates/fedora-docs-template/-/issues/6) | [8](https://gitlab.com/fedora/docs/templates/fedora-docs-template/-/merge_requests/8) | [link](https://gitlab.com/fedora/docs/templates/fedora-docs-template/-/blob/main/README.md) | |
