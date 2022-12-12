@@ -28,7 +28,7 @@
 | Issue | Pull Request | Documentation | Comments |
 | --- | --- | --- | --- |
 |[151](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/issues/151)|Pending|Pending|||
-| [109](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/issues/109) | [150](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/merge_requests/150) | n/a | Download a Linux OS with the next Gnome release |
+| [109](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/issues/109) | [150](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/merge_requests/150) | n/a | available in Gnome 44 |
 
 
 
