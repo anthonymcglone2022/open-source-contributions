@@ -14,7 +14,7 @@
 
 | Issue | Pull Request | Documentation | Comments |
 | --- | --- | --- | --- |
-|[511](https://pagure.io/fedora-docs/quick-docs/issue/511)|Pending|Pending||
+|[523](https://pagure.io/fedora-docs/quick-docs/issue/523)|[526](https://pagure.io/fedora-docs/quick-docs/issue/523)|Pending||
 |[477](https://pagure.io/fedora-docs/quick-docs/issue/477)|[507](https://pagure.io/fedora-docs/quick-docs/pull-request/507)|Pending| |
 |[404](https://pagure.io/fedora-docs/quick-docs/issue/404)|[514](https://pagure.io/fedora-docs/quick-docs/pull-request/514)|[link](https://docs.fedoraproject.org/en-US/quick-docs/dnf-system-upgrade/#sect-update-grub-bootloader-on-bios)||
 |[503](https://pagure.io/fedora-docs/quick-docs/issue/503)|[509](https://pagure.io/fedora-docs/quick-docs/pull-request/509)|[link](https://docs.fedoraproject.org/en-US/quick-docs/dnf-system-upgrade/#sect-clean-up-retired-packages)| |
