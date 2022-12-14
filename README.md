@@ -27,7 +27,7 @@
 
 | Issue | Pull Request | Documentation | Comments |
 | --- | --- | --- | --- |
-|[151](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/issues/151)|Pending|Pending|||
+|[151](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/issues/151)|[151](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/merge_requests/151)|Pending|||
 | [109](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/issues/109) | [150](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/merge_requests/150) | n/a | available in Gnome 44 |
 
 
