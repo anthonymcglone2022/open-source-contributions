@@ -4,6 +4,7 @@
 
 | Issue | Pull Request | Documentation | Comments |
 | --- | --- | --- | --- |
+|[86711](https://github.com/elastic/elasticsearch/issues/86711)  |[92491](https://github.com/elastic/elasticsearch/pull/92491)  | Pending | Pending |
 |[87296](https://github.com/elastic/elasticsearch/issues/87296)|[91995](https://github.com/elastic/elasticsearch/pull/91995)|[link](https://www.elastic.co/guide/en/elasticsearch/reference/current/security-settings.html#general-security-settings)| |
 | [88624](https://github.com/elastic/elasticsearch/issues/88624) | [89631](https://github.com/elastic/elasticsearch/pull/89631) | [link](https://www.elastic.co/guide/en/elasticsearch/reference/current/paginate-search-results.html) | |
 | [88232](https://github.com/elastic/elasticsearch/issues/88232) | [90328](https://github.com/elastic/elasticsearch/pull/90328) | [link](https://www.elastic.co/guide/en/elasticsearch/reference/current/snapshots-restore-snapshot.html) | |
