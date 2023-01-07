@@ -15,6 +15,7 @@
 
 | Issue | Pull Request | Documentation | Comments |
 | --- | --- | --- | --- |
+|[522](https://pagure.io/fedora-docs/quick-docs/issue/522)|[https://pagure.io/fedora-docs/quick-docs/pull-request/538](538)|Pending||
 |[522](https://pagure.io/fedora-docs/quick-docs/issue/522)|[531](https://pagure.io/fedora-docs/quick-docs/pull-request/531)|[link](https://docs.fedoraproject.org/en-US/quick-docs/bootloading-with-grub2/#restoring-bootloader-using-live-disk)||
 |[523](https://pagure.io/fedora-docs/quick-docs/issue/523)|[526](https://pagure.io/fedora-docs/quick-docs/pull-request/526)|[link](https://docs.fedoraproject.org/en-US/quick-docs/proc_setting-key-shortcut/)||
 |[477](https://pagure.io/fedora-docs/quick-docs/issue/477)|[507](https://pagure.io/fedora-docs/quick-docs/pull-request/507)|[link](https://docs.fedoraproject.org/en-US/quick-docs/adding-or-removing-software-repositories-in-fedora/#removing-repositories)| |
