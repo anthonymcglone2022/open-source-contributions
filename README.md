@@ -10,6 +10,11 @@
 | [88232](https://github.com/elastic/elasticsearch/issues/88232) | [90328](https://github.com/elastic/elasticsearch/pull/90328) | [link](https://www.elastic.co/guide/en/elasticsearch/reference/current/snapshots-restore-snapshot.html) | |
 | [87339](https://github.com/elastic/elasticsearch/issues/87339) | [91541](https://github.com/elastic/elasticsearch/pull/91541)  | [link](https://www.elastic.co/guide/en/elasticsearch/reference/current/indices-put-mapping.html#add-multi-fields-existing-field-ex)| |
 
+**Mozilla**
+
+| Issue | Pull Request | Documentation | Comments |
+| --- | --- | --- | --- |
+| [22458](https://github.com/mdn/content/issues/22458) | [23575](https://github.com/mdn/content/pull/23575/) | Pending | |
 
 **Fedora**
 
